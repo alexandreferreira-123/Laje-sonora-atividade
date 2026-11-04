@@ -1,0 +1,30 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  
+  :root {
+    --concreto: #E2DFD8;
+    --preto: #111111;
+    --branco: #FFFFFF;
+    --cinza-escuro: #222222;
+    --cinza-claro: #F4F3EF;
+    --azul: #2B4C7E;
+    --amarelo: #EBB02D;
+    --tinta: #C84B31;
+  }
+  
+ 
+  body {
+    font-family: 'Archivo', sans-serif;
+    background-color: var(--concreto);
+    color: var(--preto);
+  }
+  
+  h1, h2, h3, h4 {
+    font-family: 'Big Shoulders Display', sans-serif;
+  }
+
